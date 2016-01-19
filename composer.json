@@ -1,6 +1,6 @@
 {
-    "name": "martinmarianetti/xml-rpc",
-    "description": "A simple xml-rpc wrapper for laravel based on incutio xml_library",
+    "name": "cronzzz/xml-rpc",
+    "description": "A simple xml-rpc wrapper for laravel based on incutio xml_library. Copy of original package except this file. I've removed requirement of Laravel 4 to use it on Laravel 5.",
     "license": "MIT",
     "authors": [
         {
