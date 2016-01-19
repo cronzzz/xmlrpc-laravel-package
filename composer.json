@@ -15,6 +15,5 @@
         "psr-0": {
             "Martinmarianetti\\XmlRpc": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
